@@ -25,7 +25,7 @@
 $config = array(
         'view_path' => '../views',
 		'theme_name' => 'Xibo Default Theme',
-		'theme_title' => 'Xibo Digital Signage',
+		'theme_title' => 'Intervision CMS',
 		'app_name' => 'Xibo',
 		'theme_url' => 'http://xibo.org.uk',
 		'cms_source_url' => 'https://github.com/xibosignage/xibo/',
