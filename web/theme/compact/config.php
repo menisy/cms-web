@@ -21,12 +21,12 @@
 
 
 $config = array(
-    'theme_name' => 'Xibo Compact Theme',
+    'theme_name' => 'Intervision Compact Theme',
     'theme_title' => 'Intervision CMS',
-    'app_name' => 'Xibo',
-    'theme_url' => 'http://xibo.org.uk',
-    'cms_source_url' => 'https://github.com/xibosignage/xibo/',
-    'cms_install_url' => 'http://xibo.org.uk/manual/en/install_windows_client.html',
-    'cms_release_notes_url' => 'http://xibo.org.uk/manual/en/release_notes.html',
-    'latest_news_url' => 'http://xibo.org.uk/feed/'
+    'app_name' => 'Intervision CMS',
+    'theme_url' => 'http://intervision-vs.com',
+    'cms_source_url' => 'https://github.com/menisy/cms/',
+    'cms_install_url' => 'http://github.com/menisy/cms',
+    'cms_release_notes_url' => 'http://intervision-vs.com',
+    'latest_news_url' => 'http://intervision-vs.com'
 );
