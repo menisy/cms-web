@@ -201,17 +201,20 @@ span.error {
     padding: 35px;
 
 }
+.sidebar .fa{
+    margin-right: 7px;
+}
 .dashicons .blue{
    background-color: #0f75bc;
 }
 .dashicons .green{
     background-color: #2b9039;
 }
-.dashicons > a > .fa{
+.dashicons a .fa{
     font-size: 6em;
     color: #eee;
 }
-.dashicons > span > a{
+.dashicons span a{
     font-size: 1.5em;
     padding-top: 10px;
 }
