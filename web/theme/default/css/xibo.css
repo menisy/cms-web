@@ -192,11 +192,28 @@ span.error {
 }
 
 .dashicons {
-    height: 125px;
+    height: 170px;
+    background-color: #0f75bc;
+    border-radius: 10px;
     display: block;
     float: left;
     margin: 5px 5px;
     padding: 35px;
+
+}
+.dashicons .blue{
+   background-color: #0f75bc;
+}
+.dashicons .green{
+    background-color: #2b9039;
+}
+.dashicons > a > .fa{
+    font-size: 6em;
+    color: #eee;
+}
+.dashicons > span > a{
+    font-size: 1.5em;
+    padding-top: 10px;
 }
 
 .dash_button {
