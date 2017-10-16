@@ -336,7 +336,12 @@ ul.dropdown-menu-form {
 .navbar-toggle .icon-bar {
     background-color: #FFFFFF
 }
-
+.sidebar-list{
+    margin-left: -25px;
+}
+.sidebar-title{
+    margin-left: -25px;
+}
 @media (max-width: 768px) {
     ul.sidebar li a {
         float: none;
