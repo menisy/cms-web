@@ -193,6 +193,7 @@ span.error {
 
 .dashicons {
     height: 170px;
+    width: 170px;
     background-color: #0f75bc;
     border-radius: 10px;
     display: block;
@@ -204,19 +205,20 @@ span.error {
 .sidebar .fa{
     margin-right: 7px;
 }
-.dashicons .blue{
+.dashicons.blue{
    background-color: #0f75bc;
 }
-.dashicons .green{
-    background-color: #2b9039;
+.dashicons.green{
+    background-color: #39b44a;
 }
 .dashicons a .fa{
     font-size: 6em;
     color: #eee;
 }
-.dashicons span a{
+span.dash_text{
     font-size: 1.5em;
     padding-top: 10px;
+    color: #eee;
 }
 
 .dash_button {
